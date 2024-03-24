@@ -16,6 +16,7 @@
 
   ## 🌱 Projects
 - First project ->Tic-Tac-Toe by using java.
+- Secode project->Snake Game by using java.
 
   ## 📚 Education
 
