@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
--I'm Tejasava, a passionate and ambitious second-year student pursuing a Bachelor's in Technology (B.Tech) with a specialization in Artificial Intelligence and Machine Learning-
+-I'm Tejasava, a passionate and ambitious Final-year student pursuing a Bachelor's in Technology (B.Tech) with a specialization in Artificial Intelligence and Machine Learning-
  at United College of Engineering and Research .
 
 ## 🚀 About Me
