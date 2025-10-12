@@ -38,6 +38,27 @@ class TejasavaYadav:
         self.year = "2025 Graduate"
         self.mindset = "Innovation > Imitation"
         
+    def get_bio(self):
+        return """
+        A passionate technologist on the brink of graduation, I'm driven by the belief 
+        that code can change lives. As the founder of Schooloo, I'm not just writing 
+        algorithms—I'm architecting solutions that democratize education access.
+        
+        My journey spans from low-level C programming to orchestrating complex AI 
+        workflows with n8n and LLM APIs. I thrive at the intersection of artificial 
+        intelligence and practical problem-solving, where every line of code is a step 
+        toward building something meaningful.
+        
+        Whether it's training ML models, designing full-stack applications, or 
+        automating workflows that save hours of manual work, I approach every project 
+        with the same philosophy: build with purpose, iterate with feedback, and 
+        ship with impact.
+        
+        I'm not just preparing to enter the tech industry—I'm already creating my place 
+        in it. As a final-year student who codes, leads, and innovates, I'm turning my 
+        academic knowledge into real-world solutions, one commit at a time.
+        """
+        
     def get_current_focus(self):
         return [
             "🧠 Machine Learning Model Development",
@@ -65,6 +86,7 @@ class TejasavaYadav:
 
 # Initialize
 me = TejasavaYadav()
+print(me.get_bio())
 print(me.life_philosophy())
 ```
 
