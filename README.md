@@ -43,6 +43,8 @@ class TejasavaYadav:
             "🧠 Machine Learning Model Development",
             "🚀 Full-Stack Web Development",
             "📱 Android App Development",
+            "🤖 AI Automation with n8n & Workflow Orchestration",
+            "⚡ LLM API Integration (OpenAI, Claude, Gemini)",
             "🌍 AI-Driven Solutions for Real-World Problems",
             "💼 Startup Building & Product Management"
         ]
@@ -53,7 +55,9 @@ class TejasavaYadav:
             "databases": ["MySQL", "Oracle", "Firebase", "MongoDB"],
             "tools": ["Git", "GitHub", "VS Code", "Android Studio", "Linux", "macOS"],
             "frameworks": ["React", "Node.js", "Express.js", "TensorFlow", "scikit-learn"],
-            "domains": ["AI/ML", "Web Dev", "Mobile Dev", "Cloud Computing"]
+            "automation": ["n8n", "Zapier", "Make.com"],
+            "ai_apis": ["OpenAI API", "Claude API", "Gemini API", "Hugging Face"],
+            "domains": ["AI/ML", "Web Dev", "Mobile Dev", "Cloud Computing", "Automation"]
         }
     
     def life_philosophy(self):
@@ -114,6 +118,17 @@ print(me.life_philosophy())
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### 🤖 AI/Automation & LLM Integration
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=integromat&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-181818?style=for-the-badge&logo=anthropic&logoColor=D97757)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
 </div>
 
 ---
@@ -137,18 +152,6 @@ print(me.life_philosophy())
 ```
 
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TejasavaYadav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasavaYadav&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="48%" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejasavaYadav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=8" width="48%" alt="Top Languages" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TejasavaYadav&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" width="48%" alt="Contribution Graph" />
-
-</div>
 
 ---
 
